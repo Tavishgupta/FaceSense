@@ -2,4 +2,4 @@ streamlit
 pandas
 deepface
 streamlit-authenticator
-
+opencv-python-headless
