@@ -5,7 +5,7 @@ import time
 import csv
 import pickle
 from pathlib import Path
-import streamlit_authenticator as stauth
+# import streamlit_authenticator as stauth
 
 # names = ["Tavish Gupta","Gatik Arya"]
 # usernames=["tavish17","gatik4"]
