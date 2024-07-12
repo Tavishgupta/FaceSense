@@ -1,6 +1,5 @@
-streamlit-lottie
-deepface
 streamlit
-pickle
 pandas
+deepface
+streamlit-authenticator
 
