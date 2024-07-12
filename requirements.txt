@@ -1,7 +1,6 @@
 streamlit-lottie
 deepface
 streamlit
-cv2
 pickle
 pandas
 
