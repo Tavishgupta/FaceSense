@@ -1,5 +1,6 @@
 streamlit
 pandas
-deepface
+deepface==0.0.75
 streamlit-authenticator
 opencv-python-headless
+tensorflow==2.10.0
