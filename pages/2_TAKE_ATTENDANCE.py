@@ -2,7 +2,7 @@ import streamlit as st
 import os
 import pickle
 from pathlib import Path
-import streamlit_authenticator as stauth
+# import streamlit_authenticator as stauth
 from deepface import DeepFace
 import pandas as pd
 
